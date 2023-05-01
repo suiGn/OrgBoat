@@ -1,0 +1,27 @@
+{
+  "name": "orgboat",
+  "version": "2.1.1",
+  "description": "hr",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suiGn/orgboat.git"
+  },
+  "keywords": [
+    "human",
+    "resources"
+  ],
+  "author": "suiGn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suiGn/orgboat/issues"
+  },
+  "homepage": "https://github.com/suiGn/orgboat#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
