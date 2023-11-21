@@ -15,13 +15,14 @@
     "human",
     "resources"
   ],
-  "author": "suiGn",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/suiGn/orgboat/issues"
   },
   "homepage": "https://github.com/suiGn/orgboat#readme",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "author": "suiGn",
+  "license": "MIT",
+  "repoType": "App"
 }
