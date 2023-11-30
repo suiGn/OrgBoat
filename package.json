@@ -1,6 +1,6 @@
 {
   "name": "orgboat",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "hr",
   "main": "server.js",
   "scripts": {
