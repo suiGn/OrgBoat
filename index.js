@@ -1,8 +1,6 @@
 //https://wa.me/+527291671525?text=I'm%20interested%20in%20your%20mezcal%20for%20sale
 //https://wa.me/+527291671525?text=I'm%20interested%20in%20your%20palo_azul%20for%20sale
 //https://wa.me/+527291671525?text=I'm%20interested%20in%20your%20this%20for%20sale
-
-
 //my whatsapp
 //my phone
 //my address
@@ -33,7 +31,7 @@
 
 let email = "   ";
 
-
+console.log("OrgBoat.")
 
 
 

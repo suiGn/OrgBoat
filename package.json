@@ -2,9 +2,9 @@
   "name": "orgboat",
   "version": "2.1.2",
   "description": "hr",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node index.js",
     "test": "test"
   },
   "keywords": [
